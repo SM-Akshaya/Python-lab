@@ -1,6 +1,6 @@
 S1={8,41,19,27.2,"set",(1,2,3)}
 S2=set([8,31,13,7,90])
-print("\n1.Print set elemenets\n2.Datatype\n3.Add an element to S1\n4.Update elements\n5.Discard\n6.Remove\n7.Clear s1\n8.Union of S1 and S2\n9.Intersection of S1 and S2\n10.Difference of S1 and S2\n11.Symmetric difference of S1 and S2\n12.Check S2 is disjoint of S1\n13.Check S2 is subset of S1\n14.Pop operation\n15.Copy\n16.Display elements in S1 using for loop\n17.Display maximum value\n18.Display minimum value\n19.Sum of elements in set\n20.Sort operation\n21.Length of the set")
+print("\n1.Print set elemenets\n2.Datatype\n3.Add an element to S1\n4.Update elements\n5.Discard\n6.Remove\n7.Clear s1\n8.Union of S1 and S2\n9.Intersection of S1 and S2\n10.Difference of S1 and S2\n11.Symmetric difference of S1 and S2\n12.Check S2 is disjoint of S1\n13.Check S2 is subset of S1\n14.Pop operation\n15.Copy\n16.Display elements in S1 using for loop\n17.Maximum\n18.Minimum\n19.Sum of elements in set\n20.Sort operation\n21.Length of the set")
 n=int(input("Enter your choice : "))
 if(n==1):
   print("S1 elements : ",S1)
